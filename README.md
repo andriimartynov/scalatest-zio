@@ -1,6 +1,6 @@
 ZioFlatSpec for ScalaTest
 =========
-[![Build Status](https://travis-ci.org/andriimartynov/scalatest-zio.svg?branch=master)](https://travis-ci.org/andriimartynov/scalatest-zio)
+[![Build Status](https://travis-ci.org/andriimartynov/scalatest-zio.svg)](https://travis-ci.org/andriimartynov/scalatest-zio)
 
 [ScalaTest](http://www.scalatest.org/) spec for testing [zio](https://zio.dev/) monad.
 
