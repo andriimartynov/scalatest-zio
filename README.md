@@ -2,6 +2,7 @@ ZioFlatSpec for ScalaTest
 =========
 [ ![Download](https://api.bintray.com/packages/andriimartynov/maven/scalatest-zio/images/download.svg) ](https://bintray.com/andriimartynov/maven/scalatest-zio/_latestVersion)
 [![Build Status](https://travis-ci.org/andriimartynov/scalatest-zio.svg)](https://travis-ci.org/andriimartynov/scalatest-zio)
+[![Apache License V.2](https://img.shields.io/badge/license-Apache%20V.2-blue.svg)](https://github.com/andriimartynov/scalatest-zio/blob/master/LICENSE)
 
 
 [ScalaTest](http://www.scalatest.org/) spec for testing [zio](https://zio.dev/) monad.
