@@ -15,10 +15,10 @@ To resolve artifacts through Artifactory, simply add the following code snippet 
 resolvers += Resolver.jcenterRepo
 ```
 
-The current version is 3.1.2, which is cross-built against Scala 2.11.x, 2.12.x and 2.13.x.
+The current version is 3.2.0, which is cross-built against Scala 2.11.x, 2.12.x and 2.13.x.
 
 ```scala
-libraryDependencies += "org.github.andriimartynov" %% "scalatest-zio" % "3.1.2"
+libraryDependencies += "org.github.andriimartynov" %% "scalatest-zio" % "3.2.0"
 ```
 
 ## Usage example
