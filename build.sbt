@@ -15,6 +15,28 @@ libraryDependencies += ScalaTest.dependency
 
 libraryDependencies += Zio.dependency
 
+pomExtra := {
+  <url>https://github.com/andriimartynov/scalatest-zio</url>
+    <licenses>
+      <license>
+        <name>Apache 2 License</name>
+        <url>http://www.apache.org/licenses/LICENSE-2.0.html</url>
+        <distribution>repo</distribution>
+      </license>
+    </licenses>
+    <scm>
+      <url>git@github.com:andriimartynov/scalatest-zio.git</url>
+      <connection>scm:git:git@github.com:andriimartynov/scalatest-zio.git</connection>
+    </scm>
+    <developers>
+      <developer>
+        <id>andriimartynov</id>
+        <name>andriimartynov</name>
+        <url>https://github.com/andriimartynov</url>
+      </developer>
+    </developers>
+}
+
 credentials += Credentials(
   "GnuPG Key ID",
   "gpg",
